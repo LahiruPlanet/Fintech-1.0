@@ -32,7 +32,7 @@ public class loanDisbursement {
 		driver.manage().timeouts().setScriptTimeout(2, TimeUnit.SECONDS);
 		
 		//Load the page
-		driver.get("https://jsonplaceholder.typicode.com/");
+		driver.get("http://54.179.174.237:8060");
 		screen.wait(pattern, 5000);
 		
 				
