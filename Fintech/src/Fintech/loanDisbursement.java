@@ -12,14 +12,14 @@ import org.testng.annotations.Test;
 public class loanDisbursement {
 	
 	@Test
-	private void loan() throws FindFailed {
+	private void Sikuli() throws FindFailed {
 		// TODO Auto-generated method stub
 		Screen screen = new Screen();
 		Pattern pattern = new Pattern("C:\\Users\\Planet\\eclipse-workspace\\SikuliTest\\bin\\Screens\\MobileNumber_TxBx.PNG");
 		Pattern Proceed_btn = new Pattern("C:\\Users\\Planet\\eclipse-workspace\\SikuliTest\\bin\\Screens\\Proceed_btn.PNG");
 		
 		//Open webdriver
-		System.setProperty("webdriver.chrome.driver", "C:\\Chrome Driver\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Chrome Driver\\chromedriver.exe");;
 		WebDriver driver = new ChromeDriver();
 		
 		//Browser maximize
