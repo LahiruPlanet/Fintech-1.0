@@ -1,11 +1,11 @@
 # Fintech-1.0
  Required tools for test execution <br />
-  *Eclips 
-#  Download Link: https://www.eclipse.org/downloads/
-#  *Sikuli
-#  Download Link: https://launchpad.net/sikuli/+download
-#  *Selenium Chrome Driver
-#  Download Link: https://www.seleniumhq.org/download/
-#  *Selenium Client & WebDriver Language Bindings
-#  Download Link: https://www.seleniumhq.org/download/
+  *Eclips <br />
+  Download Link: https://www.eclipse.org/downloads/ <br />
+  *Sikuli <br />
+  Download Link: https://launchpad.net/sikuli/+download <br />
+  *Selenium Chrome Driver <br />
+  Download Link: https://www.seleniumhq.org/download/ <br />
+  *Selenium Client & WebDriver Language Bindings <br />
+  Download Link: https://www.seleniumhq.org/download/ <br />
   
