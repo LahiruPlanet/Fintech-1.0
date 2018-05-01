@@ -6,4 +6,6 @@
 #  Download Link: https://launchpad.net/sikuli/+download
 #  *Selenium Chrome Driver
 #  Download Link: https://www.seleniumhq.org/download/
+#  *Selenium Client & WebDriver Language Bindings
+#  Download Link: https://www.seleniumhq.org/download/
   
