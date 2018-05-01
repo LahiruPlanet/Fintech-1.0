@@ -1,5 +1,5 @@
 # Fintech-1.0
-# Required tools for test execution n/
+# Required tools for test execution
 #  *Eclips 
 #  Download Link: https://www.eclipse.org/downloads/
 #  *Sikuli
